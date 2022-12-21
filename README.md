@@ -8,5 +8,5 @@
 <br>
 
 <a href="https://github.com/nicolassoam">
-  <img width="auto" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassoam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="auto" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassoam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
